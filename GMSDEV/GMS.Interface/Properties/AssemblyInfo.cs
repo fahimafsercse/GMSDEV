@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GMD.Interface")]
+[assembly: AssemblyTitle("GMS.Interface")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GMD.Interface")]
+[assembly: AssemblyProduct("GMS.Interface")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("010d7f0a-2af8-44f0-a996-1891cb9ac57b")]
+[assembly: Guid("a5c61b17-95bf-4aa7-9232-d1ca4b175b79")]
 
 // Version information for an assembly consists of the following four values:
 //
