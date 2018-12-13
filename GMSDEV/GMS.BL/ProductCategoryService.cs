@@ -38,6 +38,21 @@ namespace GMS.BL
             }
 
         }
+        public async Task<ProductCategory> GetProductCategoryByCategoryId(long id)
+        {
+            try
+            {
+                using (GMSEntities gmsDbContext = new GMSEntities())
+                {
+                    return await gmsDbContext.ProductCategories.FindAsync(id);
+                }
+            }
+            catch (Exception ex)
+            {
+                Print("GetProductCategoryByCategoryId", ex.Message);
+                return null;
+            }
+        }
         public async Task<List<ProductCategory>> GetAllProductCategory()
         {
             try
@@ -54,7 +69,7 @@ namespace GMS.BL
                 return null;
             }
         }
-        public async Task<ResponseModel> UpdateSubCategory(ProductCategory objProductCategory)
+        public async Task<ResponseModel> UpdateProductCategory(ProductCategory objProductCategory)
         {
             try
             {
@@ -96,6 +111,11 @@ namespace GMS.BL
             ErrorLogs.PrintError("CategoryService"
                 , method
                 , msg);
+        }
+
+        Task<ResponseModel> IProductCategoryService.GetProductCategoryByCategoryId(long id)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

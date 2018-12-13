@@ -1,3 +1,5 @@
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\obj\Debug\GMS.BL.csprojAssemblyReference.cache
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\obj\Debug\GMS.BL.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.BL.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.BL.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.BL.pdb
@@ -50,17 +52,18 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\roslyn\VBCSCompiler.exe.co
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\EntityFramework.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\EntityFramework.SqlServer.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Helper.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Interface.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Model.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Helper.pdb
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Helper.dll.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Interface.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Interface.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Model.pdb
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\GMS.Model.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\EntityFramework.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\EntityFramework.SqlServer.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\obj\Debug\GMS.BL.csprojAssemblyReference.cache
-G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\obj\Debug\GMS.BL.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\obj\Debug\GMS.BL.csproj.CopyComplete
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\obj\Debug\GMS.BL.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.BL\obj\Debug\GMS.BL.pdb

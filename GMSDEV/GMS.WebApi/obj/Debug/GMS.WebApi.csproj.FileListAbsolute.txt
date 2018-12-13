@@ -1,3 +1,5 @@
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\obj\Debug\GMS.WebApi.csprojAssemblyReference.cache
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\obj\Debug\GMS.WebApi.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\ApplicationInsights.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.WebApi.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.WebApi.dll
@@ -52,6 +54,12 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Antlr3.Runtime.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\CommonServiceLocator.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\EntityFramework.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\EntityFramework.SqlServer.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.BL.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Helper.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Interface.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Model.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Repository.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Utility.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Microsoft.AI.DependencyCollector.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -85,6 +93,18 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Unity.RegistrationByCo
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Unity.ServiceLocation.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\WebActivatorEx.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\WebGrease.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.BL.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.BL.dll.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Helper.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Helper.dll.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Interface.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Interface.dll.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Model.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Model.dll.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Repository.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Repository.dll.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Utility.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\GMS.Utility.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\CommonServiceLocator.pdb
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\EntityFramework.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\EntityFramework.SqlServer.xml
@@ -113,8 +133,6 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Microsoft.AI.Dependenc
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Microsoft.AI.WindowsServer.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Microsoft.AI.Web.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\obj\Debug\GMS.WebApi.csprojAssemblyReference.cache
-G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\obj\Debug\GMS.WebApi.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\obj\Debug\GMS.WebApi.csproj.CopyComplete
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\obj\Debug\GMS.WebApi.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.WebApi\obj\Debug\GMS.WebApi.pdb

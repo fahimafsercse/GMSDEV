@@ -49,7 +49,6 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\bin\roslyn\VBCSCompiler.e
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\bin\roslyn\VBCSCompiler.exe.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.csprojAssemblyReference.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.csproj.CopyComplete
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.dll

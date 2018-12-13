@@ -1,3 +1,4 @@
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\ApplicationInsights.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\GMS.AppWeb.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\GMS.AppWeb.dll
@@ -9,7 +10,6 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\csi.exe
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\csi.exe.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\csi.rsp
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.AppWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll

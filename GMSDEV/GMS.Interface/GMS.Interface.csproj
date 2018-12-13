@@ -89,7 +89,16 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\GMS.Helper\GMS.Helper.csproj">
+      <Project>{07079821-16D0-4660-9F5E-D7EC01DBA6EC}</Project>
+      <Name>GMS.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Model\GMS.Model.csproj">
+      <Project>{3E58CB33-B5B5-4DD6-8C4D-4B007AAED0CE}</Project>
+      <Name>GMS.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

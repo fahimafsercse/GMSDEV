@@ -1,0 +1,5 @@
+Layer Name :-TOGWorkflow.BL
+Class Name :-CategoryService
+Method Name :-CreateProductCategory
+Date Time :-12/14/2018 2:00:32 AM
+Error Message :-No connection string named 'GMSEntities' could be found in the application config file.

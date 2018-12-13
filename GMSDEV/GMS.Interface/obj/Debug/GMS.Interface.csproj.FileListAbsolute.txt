@@ -47,8 +47,16 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\roslyn\vbc.exe.conf
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\roslyn\vbc.rsp
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\roslyn\VBCSCompiler.exe
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\roslyn\VBCSCompiler.exe.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\GMS.Helper.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\GMS.Model.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\EntityFramework.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\GMS.Helper.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\GMS.Helper.dll.config
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\GMS.Model.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\GMS.Model.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\bin\EntityFramework.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\obj\Debug\GMS.Interface.csprojAssemblyReference.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\obj\Debug\GMS.Interface.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Interface\obj\Debug\GMS.Interface.csproj.CopyComplete

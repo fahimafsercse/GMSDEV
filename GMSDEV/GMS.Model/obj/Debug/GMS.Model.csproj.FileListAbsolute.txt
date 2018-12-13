@@ -53,7 +53,6 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\bin\Microsoft.CodeDom.Provi
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\bin\EntityFramework.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\bin\EntityFramework.SqlServer.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.csprojAssemblyReference.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.csproj.CopyComplete
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.dll

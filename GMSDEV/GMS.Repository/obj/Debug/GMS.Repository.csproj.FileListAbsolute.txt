@@ -52,6 +52,7 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\EntityFramework.Sq
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Interface.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Model.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Helper.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Interface.pdb
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Interface.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Model.pdb
@@ -59,6 +60,8 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Model.dll.conf
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\EntityFramework.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\EntityFramework.SqlServer.xml
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Helper.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\bin\GMS.Helper.dll.config
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\obj\Debug\GMS.Repository.csprojAssemblyReference.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\obj\Debug\GMS.Repository.csproj.CoreCompileInputs.cache
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Repository\obj\Debug\GMS.Repository.csproj.CopyComplete
