@@ -9,7 +9,7 @@ namespace GMS.Model
     [Table("ProductCategory")]
     public partial class ProductCategory
     {
-        //id,name
+        [Key]
         public long Id { get; set; }
         public long Name { get; set; }
 

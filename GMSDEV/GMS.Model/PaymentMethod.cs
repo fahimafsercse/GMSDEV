@@ -9,6 +9,7 @@ namespace GMS.Model
     [Table("PaymentMethod")]
     public partial class PaymentMethod
     {
+        //incomplete
         //bkash,bank
         public bool Active { get; set; }
         public long Author { get; set; }

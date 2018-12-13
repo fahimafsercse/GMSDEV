@@ -12,8 +12,9 @@ namespace GMS.Model
     public partial class CheckOut
     {
         //Name CheckID Cust_ID Date Store_ID Subtotal Emp_ID Tax
-
+        //incomplete
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         public bool Active { get; set; }

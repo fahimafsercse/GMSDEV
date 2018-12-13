@@ -43,6 +43,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -70,7 +76,16 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminUserService.cs" />
+    <Compile Include="Common\ErrorLogs.cs" />
+    <Compile Include="Common\GlobalDecleration.cs" />
+    <Compile Include="CustomerService.cs" />
+    <Compile Include="MembershipService.cs" />
+    <Compile Include="OfferService.cs" />
+    <Compile Include="ProductCategoryService.cs" />
+    <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StoreService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -80,6 +95,20 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GMS.Helper\GMS.Helper.csproj">
+      <Project>{07079821-16D0-4660-9F5E-D7EC01DBA6EC}</Project>
+      <Name>GMS.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Interface\GMS.Interface.csproj">
+      <Project>{A5C61B17-95BF-4AA7-9232-D1CA4B175B79}</Project>
+      <Name>GMS.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Model\GMS.Model.csproj">
+      <Project>{3E58CB33-B5B5-4DD6-8C4D-4B007AAED0CE}</Project>
+      <Name>GMS.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

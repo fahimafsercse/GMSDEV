@@ -9,6 +9,7 @@ namespace GMS.Model
     [Table("Order")]
     public partial class Order
     {
+        //order
         public bool Active { get; set; }
         public long Author { get; set; }
         public DateTime? Created { get; set; }

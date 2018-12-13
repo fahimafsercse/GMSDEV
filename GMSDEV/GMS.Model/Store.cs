@@ -3,15 +3,13 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
-using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace GMS.Model
 {
     [Table("Store")]
     public partial class Store
     {
-        //it will the the shop information
-        //ID,name,DESCRIPTION//branchName,address
+
         [Key]
         public long Id { get; set; }
         public string Location { get; set; }

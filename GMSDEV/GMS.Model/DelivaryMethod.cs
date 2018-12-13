@@ -11,6 +11,7 @@ namespace GMS.Model
     public partial class DelivaryMethod
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         //cab/bus
         public bool Active { get; set; }

@@ -222,8 +222,17 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="Controllers\AdminUserController.cs" />
+    <Compile Include="Controllers\CustomerController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MembershipController.cs" />
+    <Compile Include="Controllers\OfferController.cs" />
+    <Compile Include="Controllers\ProductCategoryController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\StoreController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="DependencyInjection\UnityResolver.cs" />
+    <Compile Include="Filters\ApiAuthorizeAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -315,6 +324,32 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GMS.BL\GMS.BL.csproj">
+      <Project>{59DA694D-36B9-413A-B2F7-8384FE6147F7}</Project>
+      <Name>GMS.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Helper\GMS.Helper.csproj">
+      <Project>{07079821-16d0-4660-9f5e-d7ec01dba6ec}</Project>
+      <Name>GMS.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Interface\GMS.Interface.csproj">
+      <Project>{A5C61B17-95BF-4AA7-9232-D1CA4B175B79}</Project>
+      <Name>GMS.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Model\GMS.Model.csproj">
+      <Project>{3e58cb33-b5b5-4dd6-8c4d-4b007aaed0ce}</Project>
+      <Name>GMS.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Repository\GMS.Repository.csproj">
+      <Project>{24707440-F2CE-4AA2-97BA-1EEF0F91AA37}</Project>
+      <Name>GMS.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMS.Utility\GMS.Utility.csproj">
+      <Project>{113a8d12-4de8-4eba-be49-badebc3e761b}</Project>
+      <Name>GMS.Utility</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

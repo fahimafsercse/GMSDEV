@@ -10,8 +10,10 @@ namespace GMS.Model
     public partial class Product
     {
         //id,Brand(companyName),name,quantity,amount,des,price,pic,category,date,taxable(0/1)
+        [Key]
         public long Id { get; set; }
         public long CategoryId { get; set; }
+        public string BrandId { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
