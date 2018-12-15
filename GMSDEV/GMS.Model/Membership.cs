@@ -14,7 +14,8 @@ namespace GMS.Model
         [Key]
         public long Id { get; set; }
         public long UserId { get; set; }
-        public long MemberTypeId { get; set; }
+        public long MembershipTypeId { get; set; }
+        public string DiscountToken { get; set; }
         public bool Active { get; set; }
         public long Author { get; set; }
         public DateTime? Created { get; set; }

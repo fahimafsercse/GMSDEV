@@ -11,7 +11,7 @@ namespace GMS.Interface.IService
     public interface IProductCategoryService
     {
         Task<ResponseModel> CreateProductCategory(ProductCategory objProductCategory);
-        Task<ResponseModel> GetProductCategoryByCategoryId(long id);
+        Task<ProductCategory> GetProductCategoryByCategoryId(long id);
         Task<List<ProductCategory>> GetAllProductCategory();
         Task<ResponseModel> UpdateProductCategory(ProductCategory objProductCategory);
     }

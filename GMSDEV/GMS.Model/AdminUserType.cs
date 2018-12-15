@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace GMS.Model
 {
-    [Table("UserType")]
+    [Table("AdminUserType")]
     public partial class AdminUserType
     {
         //admin,

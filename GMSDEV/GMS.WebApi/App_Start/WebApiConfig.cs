@@ -23,6 +23,7 @@ namespace GMS.WebApi
             //Service
            // container.RegisterType<IProductCategoryService, ProductCategoryService>();
             container.RegisterType<IProductCategoryService, ProductCategoryService>();
+            container.RegisterType<IProductService, ProductService>();
 
 
 

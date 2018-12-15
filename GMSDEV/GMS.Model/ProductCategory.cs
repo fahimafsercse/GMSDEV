@@ -11,7 +11,7 @@ namespace GMS.Model
     {
         [Key]
         public long Id { get; set; }
-        public long Name { get; set; }
+        public string Name { get; set; }
 
         public bool Active { get; set; }
         public long Author { get; set; }

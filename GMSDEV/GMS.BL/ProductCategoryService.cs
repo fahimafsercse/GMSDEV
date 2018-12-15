@@ -103,6 +103,7 @@ namespace GMS.BL
                      );
             }
         }
+    
         #region Error
 
         private static void Print(string method
@@ -111,11 +112,6 @@ namespace GMS.BL
             ErrorLogs.PrintError("CategoryService"
                 , method
                 , msg);
-        }
-
-        Task<ResponseModel> IProductCategoryService.GetProductCategoryByCategoryId(long id)
-        {
-            throw new NotImplementedException();
         }
 
         #endregion

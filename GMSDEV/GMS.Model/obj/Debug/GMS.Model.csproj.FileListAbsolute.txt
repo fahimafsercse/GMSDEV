@@ -57,3 +57,4 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.csproj.
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.csproj.CopyComplete
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Model\obj\Debug\GMS.Model.csprojAssemblyReference.cache

@@ -1,0 +1,41 @@
+Layer Name :-TOGWorkflow.BL
+Class Name :-CategoryService
+Method Name :-GetAllSubCategory
+Date Time :-12/16/2018 12:52:15 AM
+Error Message :-One or more validation errors were detected during model generation:
+
+GMS.Model.Order: : EntityType 'Order' has no key defined. Define the key for this EntityType.
+GMS.Model.PaymentMethod: : EntityType 'PaymentMethod' has no key defined. Define the key for this EntityType.
+Orders: EntityType: EntitySet 'Orders' is based on type 'Order' that has no keys defined.
+PaymentMethods: EntityType: EntitySet 'PaymentMethods' is based on type 'PaymentMethod' that has no keys defined.
+
+
+
+
+Layer Name :-TOGWorkflow.BL
+Class Name :-CategoryService
+Method Name :-CreateProductCategory
+Date Time :-12/16/2018 12:56:06 AM
+Error Message :-One or more validation errors were detected during model generation:
+
+GMS.Model.Order: : EntityType 'Order' has no key defined. Define the key for this EntityType.
+GMS.Model.PaymentMethod: : EntityType 'PaymentMethod' has no key defined. Define the key for this EntityType.
+Orders: EntityType: EntitySet 'Orders' is based on type 'Order' that has no keys defined.
+PaymentMethods: EntityType: EntitySet 'PaymentMethods' is based on type 'PaymentMethod' that has no keys defined.
+
+
+
+
+Layer Name :-TOGWorkflow.BL
+Class Name :-CategoryService
+Method Name :-GetAllSubCategory
+Date Time :-12/16/2018 1:13:21 AM
+Error Message :-The 'Name' property on 'ProductCategory' could not be set to a 'System.String' value. You must set this property to a non-null value of type 'System.Int64'. 
+
+
+
+Layer Name :-TOGWorkflow.BL
+Class Name :-ProductService
+Method Name :-CreateProduct
+Date Time :-12/16/2018 1:40:53 AM
+Error Message :-An error occurred while updating the entries. See the inner exception for details.

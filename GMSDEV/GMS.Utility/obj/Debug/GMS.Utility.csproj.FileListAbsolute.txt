@@ -53,3 +53,4 @@ G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.csp
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.csproj.CopyComplete
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.dll
 G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.pdb
+G:\dev life\Working Projects\GMSDEV\GMSDEV\GMS.Utility\obj\Debug\GMS.Utility.csprojAssemblyReference.cache

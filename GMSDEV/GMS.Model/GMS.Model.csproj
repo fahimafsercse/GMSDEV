@@ -76,26 +76,18 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Action.cs" />
     <Compile Include="AdminUser.cs" />
     <Compile Include="Brand.cs" />
-    <Compile Include="Cart.cs" />
-    <Compile Include="CheckOut.cs" />
     <Compile Include="CustomerType.cs" />
-    <Compile Include="DelivaryMethod.cs" />
     <Compile Include="GMSEntities.cs" />
     <Compile Include="Membership.cs" />
     <Compile Include="MembershipType.cs" />
-    <Compile Include="Notification.cs" />
     <Compile Include="Offer.cs" />
     <Compile Include="OfferType.cs" />
-    <Compile Include="Order.cs" />
-    <Compile Include="PaymentMethod.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="ProductCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Store.cs" />
-    <Compile Include="Transaction.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="AdminUserType.cs" />
   </ItemGroup>
